@@ -1,0 +1,10 @@
+Barang\Barang.class
+Mahasiswa\Mahasiswa.class
+Persewaan\Persewaan.class
+TugasBarang\Barang.class
+Lingkaran\Lingkaran.class
+Persewaan\TestPersewaan.class
+TugasBarang\TestBarang.class
+Barang\TestBarang.class
+Lingkaran\TestLingkaran.class
+Mahasiswa\TestMahasiswa.class
